@@ -10,7 +10,9 @@ In this competition, you're challenged to build a model that recognizes toxicity
 
 Disclaimer: The dataset contains text that may be considered profane, vulgar, or offensive.
 
-FIle Description
+# External data set :FastText crawl 300d 2M file
+
+File Source :https://fasttext.cc/docs/en/english-vectors.html
 
 FastText crawl 300d 2M file :300-dimensional pretrained FastText English word vectors released by Facebook.
 
